@@ -1,0 +1,19 @@
+.card:hover
+{
+    color: black;
+    box-shadow: 0px 2px 1px 1px rgb(230, 176, 176);
+    opacity: 1;
+    transform: scale(1.08);
+    transition: 150ms ease-in-out;
+}
+.card b
+{
+    font-family: 'Ubuntu';
+}
+.card-header
+{
+    font-weight: 1000;
+    background-color: rgb(213, 55, 55);
+    font-family: 'Comfortaa',cursive;
+    color: azure;
+}
